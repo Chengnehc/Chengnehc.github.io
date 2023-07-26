@@ -1,4 +1,4 @@
 baseURL = 'https://chengnehc.github.io/'
-languageCode = 'en-us'
-title = 'YSYX Learning Log'
+languageCode = 'zh-cn'
+title = '诚'
 theme = 'diary'

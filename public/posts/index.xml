@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 诚</title>
+    <link>https://chengnehc.github.io/posts/</link>
+    <description>Recent content in Posts on 诚</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 26 Jul 2023 20:28:55 +0800</lastBuildDate><atom:link href="https://chengnehc.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>YSYX Log0: 第〇次项目记录</title>
+      <link>https://chengnehc.github.io/posts/log0/</link>
+      <pubDate>Wed, 26 Jul 2023 20:28:55 +0800</pubDate>
+      
+      <guid>https://chengnehc.github.io/posts/log0/</guid>
+      <description>This is the very first learning log for YSYX Project. I am testing my personal site right now, the traits of which are:
+the page is generated from markdown and rendered by Hugo the site is deployed on the free server of GitHub Pages the whole project is maintained by Git via CLI 这是一生一芯项目的首次记录。 我正在测试我的个人网站，它具有以下的特点：
+页面由markdown文件生成后，由Hugo渲染 网站部署在GitHub Pages的免费服务器上 整个项目由Git通过命令行进行管理和维护 </description>
+    </item>
+    
+  </channel>
+</rss>

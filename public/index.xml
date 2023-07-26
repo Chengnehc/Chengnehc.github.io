@@ -1,13 +1,39 @@
 <?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>YSYX Learning Log</title>
+    <title>诚</title>
     <link>https://chengnehc.github.io/</link>
-    <description>Recent content on YSYX Learning Log</description>
+    <description>Recent content on 诚</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 26 Jul 2023 20:28:55 +0800</lastBuildDate>
     
         <atom:link href="https://chengnehc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+        <item>
+        <title>YSYX Log0: 第〇次项目记录</title>
+        <link>https://chengnehc.github.io/posts/log0/</link>
+        <pubDate>Wed, 26 Jul 2023 20:28:55 +0800</pubDate>
+        
+        <guid>https://chengnehc.github.io/posts/log0/</guid>
+        <description>诚 https://chengnehc.github.io/posts/log0/ -&lt;h3 id=&#34;this-is-the-very-first-learning-log-for-ysyx-projecthttpsysyxoscccc&#34;&gt;This is the very first learning log for &lt;a href=&#34;https://ysyx.oscc.cc/&#34;&gt;YSYX Project&lt;/a&gt;.&lt;/h3&gt;
+&lt;p&gt;I am testing my personal site right now, the traits of which are:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;the page is generated from markdown and rendered by Hugo&lt;/li&gt;
+&lt;li&gt;the site is deployed on the free server of GitHub Pages&lt;/li&gt;
+&lt;li&gt;the whole project is maintained by Git via CLI&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;这是一生一芯项目httpsysyxoscccc的首次记录&#34;&gt;这是&lt;a href=&#34;https://ysyx.oscc.cc/&#34;&gt;一生一芯项目&lt;/a&gt;的首次记录。&lt;/h3&gt;
+&lt;p&gt;我正在测试我的个人网站，它具有以下的特点：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;页面由markdown文件生成后，由Hugo渲染&lt;/li&gt;
+&lt;li&gt;网站部署在GitHub Pages的免费服务器上&lt;/li&gt;
+&lt;li&gt;整个项目由Git通过命令行进行管理和维护&lt;/li&gt;
+&lt;/ol&gt;
+- https://chengnehc.github.io/posts/log0/ - </description>
+        </item>
     
     
   </channel>
